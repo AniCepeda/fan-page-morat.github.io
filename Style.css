@@ -1,0 +1,60 @@
+/*TIPO ETIQUETA*/
+body{background-color: rgb(221, 132, 251);
+    text-align: center;
+
+
+}
+
+h1{color: rgb(80, 2, 80);
+
+    font-weight: 900%;
+    font-size: 300%;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Kaushan Script', cursive;
+justify-content: center;
+}
+
+
+#parrafo1{font-family: 'Times New Roman', Times, serif;}
+
+nav{color: rgb(241, 188, 188)};
+
+
+h3{color: rgb(255, 247, 247);}
+
+#IMG2{
+    width: 30%; ;
+    height: 70%; ; 
+}
+
+#IMG1{
+    width: 30%;
+    height: 75%;
+}
+
+/*TIPO CLASS*/
+.tarjeta{
+    text-align: center;
+    width: 40%;
+    height: 75%;
+    border-radius: 15%;
+justify-content: center;
+
+display: grid;
+place-content: center;
+margin: auto; 
+    background-color: #f4a5ed;
+
+;}
+
+/*TIPO ID*/
+#Título-Historia{color: rgb(80, 2, 80);
+font-style: oblique;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+
+
+
+
